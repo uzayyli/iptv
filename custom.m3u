@@ -7,6 +7,10 @@ http://116.202.241.212:7015/stream/1/
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="News",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="HalkTV 360" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="News",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv_360p.m3u8
+#EXTINF:-1 tvg-id="HalkTV 1080" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="News",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined",TRT 2 (720p)
@@ -99,6 +103,7 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
 https://c.mjh.nz/abc-news.m3u8
+
 
 
 

@@ -8,7 +8,7 @@ const YTDLP_PATH = process.platform === "linux" ? "yt-dlp" : "./yt-dlp.exe";
 let CHANNELS = [];
 async function initializeChannels(){
 	if(!CHANNELS.length){
-		CHANNELS = await fetchTextArray('https://raw.githubusercontent.com/uzayyli/iptv/refs/heads/main/channels.json');
+		CHANNELS = await fetchTextArray('https://raw.githubusercontent.com/uzayyli/iptv/refs/heads/master/channels.json');
 		let extraChannels_ifAny = require('./extra_channels.json');
 		CHANNELS = CHANNELS.concat(extraChannels_ifAny);
 	}

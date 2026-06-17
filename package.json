@@ -1,0 +1,12 @@
+{
+  "name": "stream-relay",
+  "version": "1.0.0",
+  "description": "Relay internet streams to local TV receivers via M3U playlist",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

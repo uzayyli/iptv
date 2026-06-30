@@ -27,7 +27,4 @@ npm start
 - If receiver can't play the stream, change `-c copy` to `-c:v libx264 -c:a aac` in server.js (uses more CPU)
 - For live streams, the `-re` flag in ffmpeg keeps playback real-time
 - yt-dlp supported channels: https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
-
-## TODO:
-
-- check other sites.. caracal does not work with room URL
+- yt-dlp list format: ./yt-dlp.exe -F "url"

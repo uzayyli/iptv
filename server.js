@@ -105,6 +105,7 @@ app.get('/stream/:id', async (req, res) => {
   // Handle yt-dlp streams
   ytdlp = spawn(YTDLP_PATH, [
     '-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best', // Force compatible formats for direct copying
+	//"--proxy", "socks5://8.211.195.139:1000",
     '--no-playlist',
     '-g',
     ch.url,

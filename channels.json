@@ -1,15 +1,27 @@
 [
   {
-    "name": "Tele2",
-    "url": "https://www.youtube.com/watch?v=H3uh_bRUzeI"
-  },
-  {
     "name": "Science Channel Live Sun",
     "url": "https://www.youtube.com/watch?v=gLJcBLSbcEw"
   },
   {
+    "name": "CNBC Live",
+    "url": "https://www.youtube.com/live/9NyxcX3rhQs"
+  },
+  {
+    "name": "NHK-World Japan Live",
+    "url": "https://www.youtube.com/live/f0lYkdA-Gtw"
+  },
+  {
+    "name": "BBC Earth Science",
+    "url": "https://www.youtube.com/live/KGZtDK8hZ60"
+  },
+  {
     "name": "Science Channel Live Cosmos",
-    "url": "https://www.youtube.com/watch?v=IVJboaIdeKE"
+    "url": "https://www.youtube.com/live/BkOa_Jj0Dj8"
+  },
+  {
+    "name": "Tele2",
+    "url": "https://www.youtube.com/watch?v=H3uh_bRUzeI"
   },
   {
     "name": "NY Test",
